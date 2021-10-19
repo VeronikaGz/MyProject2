@@ -30,7 +30,7 @@ package HalilitPages;
 				driver.findElement(By.className("new_customer blue_link href_checked")).click();
 
 			
-			
+			//gogo
 			
 		}
 		
